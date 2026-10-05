@@ -2,7 +2,7 @@
 
 Sistema de gerenciamento de tarefas.
 
-Descricao: aplicativo para gerenciar inventarios do almoxarifado.
+Descricao: aplicativo para gerenciar tarefas do time.
 
 Conclusão de tarefas
 
